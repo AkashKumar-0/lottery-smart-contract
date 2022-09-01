@@ -1,7 +1,7 @@
-# lottery-smart-contract
-here in this i tried fr the smart contract for lottery events.
-1. manager , players and winner initialize karenge
-2. ether recive karenge 
-3. balance check karnge 
-4. winner choose karenge
-5. winner choose karne ke liye sha256 or reccak256 ye sab use kr sakte h
+``` lottery-smart-contract```
+this smart contract has five steps.
+1. initialize manager , players and winner.
+2. recive ether
+3. check balance 
+4. choose winner
+5. to choose the winner , we will use SHA256 which is a cryptography hash algorithm.
