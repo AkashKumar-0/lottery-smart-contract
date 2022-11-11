@@ -1,5 +1,5 @@
 ``` lottery-smart-contract```
-this smart contract has five steps.
+this smart contract has five section.
 1. initialize manager , players and winner.
 2. recive ether
 3. check balance 
